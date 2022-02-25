@@ -1,0 +1,5 @@
+max_width = 80
+# Following settings are only available in nightly channel.
+# error_on_line_overflow = true
+# report_fixme = "Always"
+# report_todo = "Always"

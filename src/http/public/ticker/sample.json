@@ -1,0 +1,18 @@
+{
+    "pair": "BTCUSDT",
+    "pairNormalized": "BTC_USDT",
+    "timestamp": 1643883402008,
+    "last": 36474,
+    "high": 38724,
+    "low": 36361,
+    "bid": 36405,
+    "ask": 36466,
+    "open": 38500,
+    "volume": 75.36297763,
+    "average": 37550,
+    "daily": -2034,
+    "dailyPercent": -5.26,
+    "denominatorSymbol": "USDT",
+    "numeratorSymbol": "BTC",
+    "order": 2001
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 9932534,
+        "price": "20000.00",
+        "amount": "0.001",
+        "quantity": "0.001",
+        "pairSymbol": "BTCTRY",
+        "pairSymbolNormalized": "BTC_TRY",
+        "type": "Buy",
+        "method": "Limit",
+        "orderClientId": "test",
+        "time": 1543996112263,
+        "updateTime": 1543996112263,
+        "status": "Untouched"
+    }
+]

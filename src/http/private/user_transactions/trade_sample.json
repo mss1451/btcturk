@@ -1,0 +1,14 @@
+[
+    {
+        "price": "3.267",
+        "numeratorSymbol": "XLM",
+        "denominatorSymbol": "TRY",
+        "orderType": "buy",
+        "orderId": 5111697972,
+        "id": 552887776,
+        "timestamp": 1635329637237,
+        "amount": "146.6727",
+        "fee": "-0.73095036",
+        "tax": "-0.13157106"
+    }
+]

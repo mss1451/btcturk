@@ -1,0 +1,16 @@
+[
+  {
+    "balanceType": "withdrawal",
+    "currencySymbol": "XLM",
+    "address": "GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A",
+    "tag": "109492429",
+    "txHash": "91fdf07fecb4296ca70ed15a4d6d143700ce41672c143b799152f2aa15a1f7f8",
+    "confirmationCount": 0,
+    "isConfirmed": false,
+    "id": 10279218,
+    "timestamp": 1635329695617,
+    "amount": "-146.7576",
+    "fee": "-0.02",
+    "tax": "0"
+  }
+]

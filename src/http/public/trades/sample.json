@@ -1,0 +1,24 @@
+[
+    {
+        "pair": "BTCUSDT",
+        "pairNormalized": "BTC_USDT",
+        "numerator": "BTC",
+        "denominator": "USDT",
+        "date": 1643883524310,
+        "tid": "101963779399182809",
+        "price": "36334",
+        "amount": "0.00687442",
+        "side": "sell"
+    },
+    {
+        "pair": "BTCUSDT",
+        "pairNormalized": "BTC_USDT",
+        "numerator": "BTC",
+        "denominator": "USDT",
+        "date": 1643883499603,
+        "tid": "101963779399182808",
+        "price": "36317",
+        "amount": "0.12433265",
+        "side": "sell"
+    }
+]

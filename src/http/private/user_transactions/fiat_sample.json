@@ -1,0 +1,16 @@
+[
+    {
+        "balanceType": "deposit",
+        "currencySymbol": "TRY",
+        "address": null,
+        "tag": null,
+        "txHash": null,
+        "confirmationCount": null,
+        "isConfirmed": false,
+        "id": 34086674,
+        "timestamp": 1635329589097,
+        "amount": "480",
+        "fee": "0",
+        "tax": "0"
+    }
+]

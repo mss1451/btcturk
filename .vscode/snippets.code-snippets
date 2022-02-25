@@ -1,0 +1,42 @@
+{
+	"See Also": {
+		"scope": "rust",
+		"prefix": "see_also",
+		"body": [
+			"See also <$1>"
+		],
+		"description": "See also foot note in docs.",
+	},
+	"Sample Response": {
+		"scope": "rust",
+		"prefix": "ex_resp",
+		"body": [
+			"/** **Sample**:\r```json\n$1\n```\nSee also <$2>*/"
+		],
+		"description": "Sample response doc.",
+	},
+	"Undefined": {
+		"scope": "rust",
+		"prefix": "udf",
+		"body": [
+			"_Undefined in BtcTurk docs._"
+		],
+		"description": "Undefined in BtcTurk docs note.",
+	},
+	"Undefined Single Line": {
+		"scope": "rust",
+		"prefix": "udfs",
+		"body": [
+			"/// _Undefined in BtcTurk docs._"
+		],
+		"description": "Undefined in BtcTurk docs note.",
+	},
+	"Struct/enum and its internal items": {
+		"scope": "rust",
+		"prefix": "stritem",
+		"body": 
+			"//! [`$1`] and its internal items."
+		,
+		"description": "struct/enum with internal items doc."
+	},
+}

@@ -1,0 +1,70 @@
+{
+    "asks": [
+        {
+            "id": 16060235,
+            "price": "66800.00",
+            "amount": "0.09733687",
+            "quantity": "0.09733687",
+            "stopPrice": "0.00",
+            "pairSymbol": "BTCTRY",
+            "pairSymbolNormalized": "BTC_TRY",
+            "type": "sell",
+            "method": "limit",
+            "orderClientId": "da593000-6eb3-4a1c-ba26-c616122a0210",
+            "time": 0,
+            "updateTime": 1591286401373,
+            "status": "Untouched",
+            "leftAmount": "0.09733687"
+        },
+        {
+            "id": 16060237,
+            "price": "66867.00",
+            "amount": "0.04971904",
+            "quantity": "0.04971904",
+            "stopPrice": "0.00",
+            "pairSymbol": "BTCTRY",
+            "pairSymbolNormalized": "BTC_TRY",
+            "type": "sell",
+            "method": "limit",
+            "orderClientId": "da593000-6eb3-4a1c-ba26-c616122a0210",
+            "time": 0,
+            "updateTime": 1591286411913,
+            "status": "Partial",
+            "leftAmount": "0.0412345"
+        }
+    ],
+    "bids": [
+        {
+            "id": 16071095,
+            "price": "65817.00",
+            "amount": "0.08956055",
+            "quantity": "0.08956055",
+            "stopPrice": "0.00",
+            "pairSymbol": "BTCTRY",
+            "pairSymbolNormalized": "BTC_TRY",
+            "type": "buy",
+            "method": "limit",
+            "orderClientId": "da593000-6eb3-4a1c-ba26-c616122a0210",
+            "time": 0,
+            "updateTime": 1591352311273,
+            "status": "Untouched",
+            "leftAmount": "0.08956055"
+        },
+        {
+            "id": 14703840,
+            "price": "30451.00",
+            "amount": "0.06140209",
+            "quantity": "0.06140209",
+            "stopPrice": "0.00",
+            "pairSymbol": "BTCTRY",
+            "pairSymbolNormalized": "BTC_TRY",
+            "type": "buy",
+            "method": "limit",
+            "orderClientId": "da593000-6eb3-4a1c-ba26-c616122a0210",
+            "time": 0,
+            "updateTime": 1584426660947,
+            "status": "Partial",
+            "leftAmount": "0.04909774"
+        }
+    ]
+}
