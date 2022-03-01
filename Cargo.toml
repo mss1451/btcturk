@@ -3,6 +3,7 @@ name = "btcturk"
 version = "0.1.0"
 description = "Unofficial BtcTurk exchange API bindings."
 keywords = ["crypto", "exchange"]
+repository = "https://github.com/mss1451/btcturk"
 categories = ["api-bindings"]
 license = "MIT OR Apache-2.0"
 edition = "2021"
