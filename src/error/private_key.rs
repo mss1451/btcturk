@@ -2,7 +2,7 @@ use base64::DecodeError;
 use crypto_common::InvalidLength;
 use thiserror::Error;
 
-/// Occurs when there is an error sending a request.
+/// Occurs when there is an error with the private API key.
 #[derive(Error, Debug, Clone)]
 pub enum PrivateKey {
     /// Invalid length error occurred.
